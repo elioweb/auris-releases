@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "tag": "v1.0.11",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v1.0.11/Auris-1.0.11.zip",
-  "notes": "Use GitHub contents API for reliable update manifest checks"
+  "version": "1.0.12",
+  "tag": "v1.0.12",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v1.0.12/Auris-1.0.12.zip",
+  "notes": "Preserve app signature during auto-updates to keep macOS permissions"
 }
