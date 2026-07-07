@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "tag": "v1.0.9",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v1.0.9/Auris-1.0.9.zip",
-  "notes": "Documentation sync and consolidated update check via auris-releases/latest.json"
+  "version": "1.0.10",
+  "tag": "v1.0.10",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v1.0.10/Auris-1.0.10.zip",
+  "notes": "Hotfix update manifest raw URL to avoid stale GitHub cache"
 }
