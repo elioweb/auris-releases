@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "tag": "v1.1.0",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v1.1.0/Auris-1.1.0.zip",
-  "notes": "E2 engine refresh: rebuild whisper.cpp v1.9.1 and llama.cpp b9894, add official Qwen 3 fallback models, keep Qwen 2.5 compatibility, and harden the Tier 2 chat template/output cleanup."
+  "version": "1.1.1",
+  "tag": "v1.1.1",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v1.1.1/Auris-1.1.1.zip",
+  "notes": "E3 foundation refresh: enable Swift 6 language mode, migrate app localization to Localizable.xcstrings, remove legacy Swift locale files, and keep the signed app bundle carrying SwiftPM resources."
 }
