@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "tag": "v2.0.0",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.0/Auris-2.0.0.zip",
-  "notes": "Powered by Apple Intelligence: Apple SpeechAnalyzer ASR and Foundation Models cleanup on compatible Macs, Whisper/Qwen fallback for older Macs and nl/pl, zero model download onboarding, Qwen reasoning guard, and 8-language validation gate."
+  "version": "2.0.2",
+  "tag": "v2.0.2",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.2/Auris-2.0.2.zip",
+  "notes": "Fix auto-update from beta builds: prerelease versions like 2.0.0-beta2.1 now correctly detect stable/public updates. Version 2.0.1 is intentionally skipped so affected beta installs see 2.0.2 as newer."
 }
