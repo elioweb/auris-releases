@@ -1,6 +1,6 @@
 {
-  "version": "2.0.4",
-  "tag": "v2.0.4",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.4/Auris-2.0.4.zip",
-  "notes": "Clarifie Preferences > Modeles : Whisper est presente comme moteur de secours, Large V3 Turbo devient le choix recommande, Small reste l'alternative legere, et les anciens modeles sont replies en options avancees."
+  "version": "2.0.5",
+  "tag": "v2.0.5",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.5/Auris-2.0.5.zip",
+  "notes": "Corrige le nettoyage IA Tier 2 : rejette le Markdown injecte, les titres de correction et les paraphrases trop fortes, puis revient au texte Tier 1."
 }
