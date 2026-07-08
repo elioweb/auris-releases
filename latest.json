@@ -1,6 +1,6 @@
 {
-  "version": "2.0.2",
-  "tag": "v2.0.2",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.2/Auris-2.0.2.zip",
-  "notes": "Fix auto-update from beta builds: prerelease versions like 2.0.0-beta2.1 now correctly detect stable/public updates. Version 2.0.1 is intentionally skipped so affected beta installs see 2.0.2 as newer."
+  "version": "2.0.3",
+  "tag": "v2.0.3",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.3/Auris-2.0.3.zip",
+  "notes": "Fix AI cleanup hallucination: rejects assistant-style/refusal responses such as 'Bien sûr, je vais...' when they were not dictated, and falls back to Tier 1 cleanup. Adds regression tests for the exact reported case."
 }
