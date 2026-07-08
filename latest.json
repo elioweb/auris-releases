@@ -1,6 +1,6 @@
 {
-  "version": "2.0.5",
-  "tag": "v2.0.5",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.5/Auris-2.0.5.zip",
-  "notes": "Corrige le nettoyage IA Tier 2 : rejette le Markdown injecte, les titres de correction et les paraphrases trop fortes, puis revient au texte Tier 1."
+  "version": "2.0.6",
+  "tag": "v2.0.6",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.6/Auris-2.0.6.zip",
+  "notes": "Ajoute le check automatique de mise a jour opt-in : quotidien, silencieux si offline ou a jour, et installation seulement apres confirmation."
 }
