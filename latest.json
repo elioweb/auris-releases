@@ -1,6 +1,6 @@
 {
-  "version": "2.0.6",
-  "tag": "v2.0.6",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.6/Auris-2.0.6.zip",
-  "notes": "Ajoute le check automatique de mise a jour opt-in : quotidien, silencieux si offline ou a jour, et installation seulement apres confirmation."
+  "version": "2.0.7",
+  "tag": "v2.0.7",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.7/Auris-2.0.7.zip",
+  "notes": "Limite l'interface aux 8 langues de lancement et traduit les libelles Preferences recents, avec fallback anglais hors scope."
 }
