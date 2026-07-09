@@ -1,6 +1,6 @@
 {
-  "version": "2.0.13",
-  "tag": "v2.0.13",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.13/Auris-2.0.13.zip",
-  "notes": "Ajoute un mini-test generique avant insertion : le debut nettoye doit correspondre au debut dicte, sinon retour Tier 1."
+  "version": "2.0.15",
+  "tag": "v2.0.15",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.15/Auris-2.0.15.zip",
+  "notes": "Tier 2 cleanup now treats dictated text as delimited data, uses structured Foundation Models output, and relies on language-agnostic structural guards with an 8-language regression corpus."
 }
