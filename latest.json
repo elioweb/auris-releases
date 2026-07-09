@@ -1,6 +1,6 @@
 {
-  "version": "2.0.11",
-  "tag": "v2.0.11",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.11/Auris-2.0.11.zip",
-  "notes": "Corrige le nettoyage Tier 2 : rejette les refus d'assistant inventes et conserve la dictee originale."
+  "version": "2.0.12",
+  "tag": "v2.0.12",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.12/Auris-2.0.12.zip",
+  "notes": "Corrige le nettoyage Tier 2 : rejette les reponses d'assistant avec tableau Markdown invente."
 }
