@@ -1,6 +1,6 @@
 {
-  "version": "2.0.9",
-  "tag": "v2.0.9",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.9/Auris-2.0.9.zip",
-  "notes": "Ajoute un editeur de glossaire fonctionnel : mots corrects, variantes, sauvegarde locale et interface traduite."
+  "version": "2.0.10",
+  "tag": "v2.0.10",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.10/Auris-2.0.10.zip",
+  "notes": "Corrige le glossaire : champs alignes a gauche, entrees par defaut visibles, modifiables et supprimables."
 }
