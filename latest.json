@@ -1,6 +1,6 @@
 {
-  "version": "2.0.12",
-  "tag": "v2.0.12",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.12/Auris-2.0.12.zip",
-  "notes": "Corrige le nettoyage Tier 2 : rejette les reponses d'assistant avec tableau Markdown invente."
+  "version": "2.0.13",
+  "tag": "v2.0.13",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.13/Auris-2.0.13.zip",
+  "notes": "Ajoute un mini-test generique avant insertion : le debut nettoye doit correspondre au debut dicte, sinon retour Tier 1."
 }
