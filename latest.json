@@ -1,6 +1,6 @@
 {
-  "version": "2.0.8",
-  "tag": "v2.0.8",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.8/Auris-2.0.8.zip",
-  "notes": "Rafraichit le statut de mise a jour a l'ouverture des Preferences et garde le bouton de verification manuelle visible meme quand l'etat affiche A jour."
+  "version": "2.0.9",
+  "tag": "v2.0.9",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.9/Auris-2.0.9.zip",
+  "notes": "Ajoute un editeur de glossaire fonctionnel : mots corrects, variantes, sauvegarde locale et interface traduite."
 }
