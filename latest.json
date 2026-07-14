@@ -1,6 +1,6 @@
 {
-  "version": "2.0.15",
-  "tag": "v2.0.15",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.15/Auris-2.0.15.zip",
-  "notes": "Tier 2 cleanup now treats dictated text as delimited data, uses structured Foundation Models output, and relies on language-agnostic structural guards with an 8-language regression corpus."
+  "version": "2.0.16",
+  "tag": "v2.0.16",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.16/Auris-2.0.16.zip",
+  "notes": "Adds spacing between consecutive dictations."
 }
