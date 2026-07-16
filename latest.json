@@ -1,6 +1,6 @@
 {
-  "version": "2.0.17",
-  "tag": "v2.0.17",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.17/Auris-2.0.17.zip",
-  "notes": "Protect short dictations and improve question punctuation."
+  "version": "2.0.18",
+  "tag": "v2.0.18",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.18/Auris-2.0.18.zip",
+  "notes": "Add independent push-to-talk and hands-free shortcuts. Build 37 is the shared baseline for cross-Mac diagnostics; known shortcut-state and insertion compatibility issues remain under investigation."
 }
