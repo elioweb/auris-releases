@@ -1,6 +1,6 @@
 {
-  "version": "2.0.18",
-  "tag": "v2.0.18",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.18/Auris-2.0.18.zip",
-  "notes": "Add independent push-to-talk and hands-free shortcuts. Build 37 is the shared baseline for cross-Mac diagnostics; known shortcut-state and insertion compatibility issues remain under investigation."
+  "version": "2.0.19",
+  "tag": "v2.0.19",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.19/Auris-2.0.19.zip",
+  "notes": "Reliable text insertion: Accessibility writes are now verified and automatically fall back to a real paste — fixes missing text in Word, Outlook, OneNote and Power PDF. Safer clipboard restoration (user copies are never overwritten)."
 }
