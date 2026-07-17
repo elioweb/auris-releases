@@ -1,6 +1,6 @@
 {
-  "version": "2.0.19",
-  "tag": "v2.0.19",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.19/Auris-2.0.19.zip",
-  "notes": "Reliable text insertion: Accessibility writes are now verified and automatically fall back to a real paste — fixes missing text in Word, Outlook, OneNote and Power PDF. Safer clipboard restoration (user copies are never overwritten)."
+  "version": "2.0.20",
+  "tag": "v2.0.20",
+  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.20/Auris-2.0.20.zip",
+  "notes": "Global shortcuts no longer get stuck after screenshots or missed modifier releases. Keeps the configurable Hold to Talk and Hands Free shortcuts, improves custom key combinations, and completes shortcut translations in 8 languages."
 }
