@@ -1,6 +1,1 @@
-{
-  "version": "2.0.20",
-  "tag": "v2.0.20",
-  "download_url": "https://github.com/elioweb/auris-releases/releases/download/v2.0.20/Auris-2.0.20.zip",
-  "notes": "Global shortcuts no longer get stuck after screenshots or missed modifier releases. Keeps the configurable Hold to Talk and Hands Free shortcuts, improves custom key combinations, and completes shortcut translations in 8 languages."
-}
+{"sha256":"2fd2d63299995639a3ebbe9cb7ac03b9021b4eb802b66c40fe548a8d16abd33e","version":"2.0.21","notes":"Improves Apple Speech transcription performance by keeping installed language assets available between dictations, adds Whisper fallback for empty or failed segments, and makes model idle unloading follow its configured delay.","download_url":"https:\/\/github.com\/elioweb\/auris-releases\/releases\/download\/v2.0.21\/Auris-2.0.21.zip","tag":"v2.0.21","build":"45"}
